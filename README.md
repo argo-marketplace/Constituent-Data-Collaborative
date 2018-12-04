@@ -1,5 +1,5 @@
 # Congressional-Data-Collaborative
-Imagining an evolution of data.gov that revolves around a Data Collaborative approach to link open data generated at the local level with Congressional legislation making.
+Imagining an evolution of data.gov that revolves around a Data Collaborative approach to link open data generated at the local level with the legislative process in Congress.
 
 # Context
 This started as a simple question on how sitting members of the US Congress can positively influence local municipal operations. The discussion evolved into many distinct and insightful threads that centered around how data can be better used for policy-making.
