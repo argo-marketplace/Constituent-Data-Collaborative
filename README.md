@@ -15,4 +15,4 @@ The discussion threads can be viewied @ https://treeverse.app/view/9zVXfCZf
 
 
 # How
-- Open an issue to discuss further!
+- Open an issue to imagine further!
