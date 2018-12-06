@@ -1,4 +1,4 @@
-# Congressional-Data-Collaborative
+# Constituent-Data-Collaborative
 Imagining an evolution of data.gov that revolves around a Data Collaborative approach to link open data generated at the local level to better empower constituents to lobby their electeds.
 
 # Context
