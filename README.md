@@ -20,3 +20,6 @@ The Congressional Data Collaborative could be an indepdendent entity similar to 
 
 # How
 - Open an issue to imagine further!
+
+# Updates
+March 23, 2019: Script to extract percentage variable data and visualize on a Tableau dashboard has been completed. I reached out to the Census Developer Team as I was getting a ton of non-percentage values for variables that were called "Percent Estimates". I pruned the variable list for all values >100. I also found a list of legislators from https://github.com/unitedstates/congress-legislatorsand was able to merge this data with the Census values to create a dashboard where a user can tweet specific stats at their elected representative.
